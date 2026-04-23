@@ -16,8 +16,8 @@ Currently, I am researching AI-assisted Quantum Error Correction (QEC) decoding 
 * **Hardware/Circuits:** Verilog, Pspice, Advanced Design System (ADS)
 
 ### 🏆 Selected Honors
-* **Grand Prize**, 2025 Quantum Challenge
 * **2nd Place (SKKU President Prize)**, 2025 Korea Quantum Information Hackathon
+* **Challenge Level**, 2025 Quantum Challenge
 
 ### 📫 Let's Connect
 * **Email:** jaemin6093@korea.ac.kr
