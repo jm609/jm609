@@ -39,3 +39,4 @@ As an Undergraduate Researcher in the **Communications & Information Systems Lab
 
 - **Email:** [jaemin6093@korea.ac.kr](mailto:jaemin6093@korea.ac.kr)
 - **Blog:** [blog.naver.com/graytheme](https://blog.naver.com/graytheme)
+- **Linked in: ** www.linkedin.com/in/jm609
